@@ -1,7 +1,7 @@
 from random import shuffle
 
-tamanho = 100000000  
-nome_arquivo = "100_milhões.txt"  
+tamanho = 50000000  
+nome_arquivo = "50_milhoes.txt"  
 
 numeros = list(range(1, tamanho + 1))  
 
